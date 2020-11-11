@@ -1,0 +1,1 @@
+scrapy crawl jacobs -o output.csv
